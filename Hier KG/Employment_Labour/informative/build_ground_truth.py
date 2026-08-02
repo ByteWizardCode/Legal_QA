@@ -79,7 +79,7 @@ CONFIG = {
 
     # ── Groq / Llama-3.3-70B  (FREE) ─────────────────────────────────────
     # Get your free key at: https://console.groq.com/keys
-    "groq_api_key"     : "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",
+    "groq_api_key"     : "Your_API_KEY",
     "groq_model"       : "llama-3.1-8b-instant",                               #"llama-3.3-70b-versatile",
     "temperature"      : 0.1,   # low = deterministic
     "max_tokens"       : 128,   # JSON list is short   previously 256
