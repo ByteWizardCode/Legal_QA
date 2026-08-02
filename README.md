@@ -1,4 +1,4 @@
-# Knowledge-Infused Legal QA: Hierarchical Graphs + Reinforcement Learning
+# A Knowledge-Infused Framework for Multi-dimensional Legal Question Answering using Hierarchical Graphs and Reinforcement Learning
 
 A multi-dimensional Legal Question Answering framework that combines **Hierarchical Knowledge Graphs (HKG)**, **Reinforcement Learning (RL)**-based reasoning-path expansion, and **neural past-case retrieval** to generate structured, interpretable legal answers. Built and evaluated on real-world queries from the [Vidhikarya](https://www.vidhikarya.com/) platform across Employment & Labour, Criminal, and Family law domains.
 
