@@ -56,7 +56,7 @@ CONFIG = {
     "ollama_url"     : "http://localhost:11434/api/generate",
 
     # OpenAI
-    "openai_api_key" : "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",
+    "openai_api_key" : "API_KEY",
     "openai_model"   : "gpt-4o",
 
     # HuggingFace local (CPU-friendly small model)
