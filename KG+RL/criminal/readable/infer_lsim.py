@@ -66,7 +66,7 @@ CONFIG = {
     "llm_backend"        : "openai",
 
     # Groq  (free tier — https://console.groq.com)
-    "groq_api_key"       : "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",
+    "groq_api_key"       : "GROQ_API_KEY",
     "groq_model"         : "llama-3.3-70b-versatile",      # "llama-3.1-8b-instant",   # free & matches paper
 
     # Ollama (local — run `ollama pull llama3` first)
