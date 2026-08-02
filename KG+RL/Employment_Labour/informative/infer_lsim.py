@@ -80,7 +80,7 @@ CONFIG = {
     # HuggingFace local (CPU-friendly small model)
     #"hf_model"           : "microsoft/phi-2",           # 2.7B, CPU-runnable
     # ADD these 3 lines right after "hf_model" key:
-    "hf_api_key"         : "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",   # ← your HF token
+    "hf_api_key"         : "Your_API_KEY",   # ← your HF token
     "hf_api_model"       : "meta-llama/Llama-3.3-70B-Instruct",
     "hf_api_url"         : "https://router.huggingface.co/v1/chat/completions",
 
